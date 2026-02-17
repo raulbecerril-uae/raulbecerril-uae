@@ -2,16 +2,16 @@
 <h3 align="center">Software Developer • Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Systems+Engineer;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Focused;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" width="18"/> About Me
 
-- Software developer focused on AI & systems  
+- Software developer focused on AI and systems  
 - Building scalable backend architectures  
-- Real-time systems, LLMs & Computer Vision  
+- Interested in real-time systems, LLMs and computer vision  
 - Based in UAE  
 
 ---
@@ -37,13 +37,12 @@
 
 ---
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="18"/> AI / Machine Learning
+## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="18"/> AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-000?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge)
 
 ---
 
