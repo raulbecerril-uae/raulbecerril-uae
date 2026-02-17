@@ -44,7 +44,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-000?style=for-the-badge)
 
----
+
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/database.svg" width="18"/> Databases
 
@@ -53,12 +53,8 @@
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
----
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/cloud.svg" width="18"/> Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
