@@ -1,24 +1,24 @@
 <h1 align="center">Raul Becerril</h1>
-<h3 align="center">AI Systems Engineer • Full Stack Developer</h3>
+<h3 align="center">Software Developer • Full Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Systems+Developer;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Systems+Engineer;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Intelligent+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" width="18"/> About Me
 
-- AI & Systems-focused developer  
+- Software developer focused on AI & systems  
 - Building scalable backend architectures  
 - Real-time systems, LLMs & Computer Vision  
 - Based in UAE  
 
 ---
 
-# 🚀 Tech Stack
+# <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="18"/> Tech Stack
 
-## 🖥 Frontend
+## <img src="https://unpkg.com/lucide-static@latest/icons/monitor.svg" width="18"/> Frontend
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
@@ -28,7 +28,7 @@
 
 ---
 
-## ⚙️ Backend
+## <img src="https://unpkg.com/lucide-static@latest/icons/server.svg" width="18"/> Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -37,7 +37,7 @@
 
 ---
 
-## 🤖 AI / Machine Learning
+## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="18"/> AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
@@ -47,7 +47,7 @@
 
 ---
 
-## 🗄 Databases
+## <img src="https://unpkg.com/lucide-static@latest/icons/database.svg" width="18"/> Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
@@ -56,14 +56,14 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+## <img src="https://unpkg.com/lucide-static@latest/icons/cloud.svg" width="18"/> Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="18"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raulbecerril-uae&show_icons=true&theme=tokyonight" />
