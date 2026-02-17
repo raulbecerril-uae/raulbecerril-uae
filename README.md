@@ -5,16 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Focused;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Systems" />
 </p>
 
----
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" width="18"/> About Me
 
 - Software developer focused on AI and systems  
 - Building scalable backend architectures  
-- Interested in real-time systems, LLMs and computer vision  
 - Based in UAE  
 
----
 
 # <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="18"/> Tech Stack
 
@@ -26,7 +23,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
 ![Tamagui](https://img.shields.io/badge/Tamagui-000?style=for-the-badge)
 
----
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/server.svg" width="18"/> Backend
 
@@ -35,7 +31,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
 
----
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="18"/> AI / ML
 
@@ -43,7 +38,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-000?style=for-the-badge)
-
 
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/database.svg" width="18"/> Databases
@@ -54,9 +48,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
 
-
-
----
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="18"/> GitHub Stats
 
