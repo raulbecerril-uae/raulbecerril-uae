@@ -1,5 +1,5 @@
 <h1 align="center">Raul Becerril</h1>
-<h3 align="center">Software Developer • Full Stack Engineer</h3>
+<h3 align="center">Software Developer • Full Stack</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Systems+Engineer;C%2B%2B+%7C+Python+%7C+Rust+%7C+TypeScript;Building+Scalable+Intelligent+Systems" />
