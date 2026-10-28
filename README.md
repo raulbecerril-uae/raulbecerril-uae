@@ -9,8 +9,8 @@
 ## <img src="https://unpkg.com/lucide-static@latest/icons/user.svg" width="18"/> About Me
 
 - Software developer focused on AI and systems  
-- Building scalable backend architectures  
-- Based in UAE  
+  
+
 
 
 # <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="18"/> Tech Stack
