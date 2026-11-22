@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+<rect width="1000" height="64" fill="#080612"/>
+<path d="M0 62H1000" stroke="#34234f"/>
+<rect x="0" y="8" width="5" height="42" fill="#00ff41"/>
+<text x="24" y="37" fill="#a855f7" font-family="monospace" font-size="17">[03]</text>
+<text x="74" y="38" fill="#f3f0ff" font-family="Orbitron, monospace" font-size="24" font-weight="700" letter-spacing="2">GITHUB ANALYTICS</text>
+<text x="970" y="35" text-anchor="end" fill="#00ff41" font-family="monospace" font-size="14">SYS://READY</text>
+</svg>
